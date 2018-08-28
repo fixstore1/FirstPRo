@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410077622093",
+    "firebase_url": "https://fixstore-3c385.firebaseio.com",
+    "project_id": "fixstore-3c385",
+    "storage_bucket": "fixstore-3c385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410077622093:android:58d60709b266857a",
+        "android_client_info": {
+          "package_name": "com.example.dell.firstpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410077622093-jrgtg11poq9tc4uit7hk1e6fh2fon2rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTfyyKtDiAuT-dcfj4qUbj8GFwzhLA5Js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
